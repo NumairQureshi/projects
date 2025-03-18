@@ -1,6 +1,6 @@
 Instacart Data Analysis and EDA (Exploratory Data Analysis)
 
-link to the live project: https://nbviewer.org/github/NumairQureshi/projects/blob/main/2.%20Instacart%20Project.html
+link to the live project: https://nbviewer.org/github/NumairQureshi/projects/blob/main/Instacart%20Project/Instacart%20Project.html
 
 Overview
 
