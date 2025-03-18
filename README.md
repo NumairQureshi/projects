@@ -1,5 +1,7 @@
 Instacart Data Analysis and EDA (Exploratory Data Analysis)
 
+link to the live project: https://nbviewer.org/github/NumairQureshi/projects/blob/main/2.%20Instacart%20Project.html
+
 Overview
 
 This project is a comprehensive Exploratory Data Analysis (EDA) of a subset of the publicly available Instacart dataset, aimed at uncovering meaningful insights related to customer purchasing habits, product reordering behavior, and more. By utilizing various Python libraries such as pandas, matplotlib, and seaborn, this project walks through multiple stages, including data cleaning, missing value imputation, and insightful visualizations.
